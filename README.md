@@ -10,7 +10,7 @@
 Here are some of the programming languages and technologies I’m familiar with:
 
 ## 👨‍💻 Languages: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,matlab,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,matlab, sql, latex)](https://skillicons.dev)
 
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
