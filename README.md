@@ -2,7 +2,7 @@
 
 ## About me
 - 💻 MSc in Materials and Manufacturing Engineering from DTU (Technical University of Denmark).
-- 🌱 Currently transitioning into front-end development and having fun learning HTML, CSS, and JavaScript.
+- 🌱 Currently doing an internship at a Portuguese startup!
 - 🌟 Passionate about creativity, combining technical and artistic skills.
 - 🌍 Fun fact: I love to learn new languages! Fluent in English, Portuguese, French, and currently studying Japanese.
 
@@ -13,7 +13,7 @@ Here are some of the programming languages and technologies I’m familiar with:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,c,matlab,sqlite,latex)](https://skillicons.dev)
 
 ## ⚙️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,nodejs,express,bootstrap)](https://skillicons.dev)<br><br>
 
 
 ## 📫 Contact:
