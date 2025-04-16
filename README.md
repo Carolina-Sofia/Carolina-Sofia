@@ -2,7 +2,6 @@
 
 ## About me
 - 💻 MSc in Materials and Manufacturing Engineering from DTU (Technical University of Denmark).
-- 🌱 Currently doing an internship at a Portuguese startup!
 - 🌟 Passionate about creativity, combining technical and artistic skills.
 - 🌍 Fun fact: I love to learn new languages! Fluent in English, Portuguese, French, and currently studying Japanese.
 
